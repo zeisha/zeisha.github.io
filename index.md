@@ -7,6 +7,7 @@
     <style>
         .text{
             font-family: "B Nazanin";
+            font:bold;
         }
     </style>
 
