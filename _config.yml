@@ -1,2 +1,2 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-slate
 title: "Why does Google prepend while(1); to their JSON responses?"
