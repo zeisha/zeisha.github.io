@@ -14,7 +14,6 @@
 </head>
 <body>
  <div dir="rtl" class="text" >
- zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
      چرا گوگل در ابتدای پاسخ‌های خصوصی JSON خود، (while(1 را اضافه می‌کند؟<br>
 یک مثال ساختگی را در نظر بگیرید: فرض کنید URLای مثل mail.google.com/json?action=inbox وجود دارد که 50 پیام اول شما در صندوق پیامتان را بر می‌گرداند.
 در تئوری، محتوای یک پاسخ HTTP به وسیله Same Origin Policy در برابر سایت‌هایی با دامنه‌ی متفاوت محافظت می‌شود و آن‌ها نمی‌توانند برای دست‌یابی به اطلاعات درخواست AJAX ارسال کنند. اما در عمل وضع به گونه دیگری است.<br>
